@@ -1,4 +1,5 @@
 # spire
+[![Build Status](https://travis-ci.org/globalbioticinteractions/spire.svg?branch=master)](https://travis-ci.org/globalbioticinteractions/spire)
 
 Semantic Prototypes in Research Ecoinformatics (SPIRE).
 Dataset shared by Joel Sachs, Dept. of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD, USA.
