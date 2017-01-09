@@ -12,3 +12,5 @@ allFoodWebStudies.owl - actual interaction data
 econetvis.mdb - original microsoft access database of the Animal Diversity Web, parts of allFoodWebStudies.owl are derived from this.
 
 See http://www.cs.umd.edu/hcil/biodiversity/ for more information.
+
+Available through http://globalbioticinteractions.org .
