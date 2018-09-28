@@ -1,6 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "spire",
+  "citation": "Semantic Prototypes in Research Ecoinformatics (SPIRE). Data provided by Joel Sachs. See also http://ebiquity.umbc.edu/get/a/publication/297.pdf .",
   "resources": {
     "spire/allFoodWebStudies.owl": "allFoodWebStudies.owl"
   }
