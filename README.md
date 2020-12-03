@@ -1,5 +1,6 @@
 # spire
-[![Build Status](https://travis-ci.org/globalbioticinteractions/spire.svg?branch=master)](https://travis-ci.org/globalbioticinteractions/spire)
+[![Build Status](https://travis-ci.com/globalbioticinteractions/spire.svg)](https://travis-ci.com/globalbioticinteractions/spire) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/spire)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/spire)
+
 
 Semantic Prototypes in Research Ecoinformatics (SPIRE). Data provided by Joel Sachs. See also http://ebiquity.umbc.edu/get/a/publication/297.pdf .
 
